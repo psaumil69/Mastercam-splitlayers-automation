@@ -7,7 +7,7 @@ Designed to eliminate repetitive CAM work and produce fast, consistent results.
 
 ## Article & Background
 
-This project is based on a workflow described in my Medium article:  
+This project is based on a workflow described in my article:  
 https://www.compositesworld.com/articles/automating-layer-preparation-in-composite-tooling-workflows
 
 The article explains the motivation, the problem solved, and the practical benefits of automating Z‑level layer offsets in Mastercam.
